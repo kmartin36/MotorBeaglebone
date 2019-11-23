@@ -4798,58 +4798,58 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <wire x1="28.575" y1="-21.59" x2="29.21" y2="-22.225" width="0.1524" layer="21"/>
 <wire x1="29.21" y1="-22.225" x2="29.21" y2="-26.035" width="0.1524" layer="21"/>
 <wire x1="29.21" y1="-26.035" x2="28.575" y2="-26.67" width="0.1524" layer="21"/>
-<pad name="47" x="-27.94" y="-25.4" drill="1.016" shape="square"/>
+<pad name="1" x="-27.94" y="-25.4" drill="1.016" shape="square"/>
 <text x="-30.861" y="-26.416" size="1.27" layer="21" ratio="10">1</text>
 <polygon width="0.1524" layer="21">
 <vertex x="-29.21" y="-26.035"/>
 <vertex x="-28.575" y="-26.67"/>
 <vertex x="-29.21" y="-26.67"/>
 </polygon>
-<pad name="48" x="-27.94" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="49" x="-25.4" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="50" x="-25.4" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="51" x="-22.86" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="52" x="-22.86" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="53" x="-20.32" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="54" x="-20.32" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="55" x="-17.78" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="56" x="-17.78" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="57" x="-15.24" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="58" x="-15.24" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="59" x="-12.7" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="60" x="-12.7" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="61" x="-10.16" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="62" x="-10.16" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="63" x="-7.62" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="64" x="-7.62" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="65" x="-5.08" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="66" x="-5.08" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="67" x="-2.54" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="68" x="-2.54" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="69" x="0" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="70" x="0" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="71" x="2.54" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="72" x="2.54" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="73" x="5.08" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="74" x="5.08" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="75" x="7.62" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="76" x="7.62" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="77" x="10.16" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="78" x="10.16" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="79" x="12.7" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="80" x="12.7" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="81" x="15.24" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="82" x="15.24" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="83" x="17.78" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="84" x="17.78" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="85" x="20.32" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="86" x="20.32" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="87" x="22.86" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="88" x="22.86" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="89" x="25.4" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="90" x="25.4" y="-22.86" drill="1.016" shape="octagon"/>
-<pad name="91" x="27.94" y="-25.4" drill="1.016" shape="octagon"/>
-<pad name="92" x="27.94" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="2" x="-27.94" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="3" x="-25.4" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="4" x="-25.4" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="5" x="-22.86" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="6" x="-22.86" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="7" x="-20.32" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="8" x="-20.32" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="9" x="-17.78" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="10" x="-17.78" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="11" x="-15.24" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="12" x="-15.24" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="13" x="-12.7" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="14" x="-12.7" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="15" x="-10.16" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="16" x="-10.16" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="17" x="-7.62" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="18" x="-7.62" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="19" x="-5.08" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="20" x="-5.08" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="21" x="-2.54" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="22" x="-2.54" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="23" x="0" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="24" x="0" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="25" x="2.54" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="26" x="2.54" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="27" x="5.08" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="28" x="5.08" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="29" x="7.62" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="30" x="7.62" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="31" x="10.16" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="32" x="10.16" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="33" x="12.7" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="34" x="12.7" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="35" x="15.24" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="36" x="15.24" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="37" x="17.78" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="38" x="17.78" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="39" x="20.32" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="40" x="20.32" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="41" x="22.86" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="42" x="22.86" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="43" x="25.4" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="44" x="25.4" y="-22.86" drill="1.016" shape="octagon"/>
+<pad name="45" x="27.94" y="-25.4" drill="1.016" shape="octagon"/>
+<pad name="46" x="27.94" y="-22.86" drill="1.016" shape="octagon"/>
 <wire x1="-47.625" y1="-6.35" x2="-47.625" y2="-20.955" width="0.1524" layer="21"/>
 <wire x1="-47.625" y1="-20.955" x2="-41.275" y2="-27.305" width="0.1524" layer="21" curve="90"/>
 <wire x1="-41.275" y1="-27.305" x2="26.035" y2="-27.305" width="0.1524" layer="21"/>
@@ -5032,44 +5032,44 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <devices>
 <device name="" package="BEAGLEBONE_P9">
 <connects>
-<connect gate="G$1" pin="!RESET" pad="56"/>
-<connect gate="G$1" pin="3V3" pad="49 50" route="any"/>
-<connect gate="G$1" pin="AGND" pad="80"/>
-<connect gate="G$1" pin="AIN0" pad="85"/>
-<connect gate="G$1" pin="AIN1" pad="86"/>
-<connect gate="G$1" pin="AIN2" pad="83"/>
-<connect gate="G$1" pin="AIN3" pad="84"/>
-<connect gate="G$1" pin="AIN4" pad="79"/>
-<connect gate="G$1" pin="AIN5" pad="82"/>
-<connect gate="G$1" pin="AIN6" pad="81"/>
-<connect gate="G$1" pin="CLKOUT2/GPIO3_20" pad="87"/>
-<connect gate="G$1" pin="EHRPWM1A" pad="60"/>
-<connect gate="G$1" pin="EHRPWM1B" pad="62"/>
-<connect gate="G$1" pin="GND" pad="47 48 89 90 91 92" route="any"/>
-<connect gate="G$1" pin="GPIO0_7/GPIO3_18" pad="88"/>
-<connect gate="G$1" pin="GPIO1_16" pad="61"/>
-<connect gate="G$1" pin="GPIO1_17" pad="69"/>
-<connect gate="G$1" pin="GPIO1_28" pad="58"/>
-<connect gate="G$1" pin="GPIO3_19" pad="73"/>
-<connect gate="G$1" pin="GPIO3_21" pad="71"/>
-<connect gate="G$1" pin="I2C1_SCL" pad="63"/>
-<connect gate="G$1" pin="I2C1_SDA" pad="64"/>
-<connect gate="G$1" pin="I2C2_SCL" pad="65"/>
-<connect gate="G$1" pin="I2C2_SDA" pad="66"/>
-<connect gate="G$1" pin="PWR_BTN" pad="55"/>
-<connect gate="G$1" pin="SPI1_CS0" pad="74"/>
-<connect gate="G$1" pin="SPI1_D0" pad="75"/>
-<connect gate="G$1" pin="SPI1_D1" pad="76"/>
-<connect gate="G$1" pin="SPI1_SCLK" pad="77"/>
-<connect gate="G$1" pin="SYS_5V" pad="53 54" route="any"/>
-<connect gate="G$1" pin="UART1_RXD" pad="72"/>
-<connect gate="G$1" pin="UART1_TXD" pad="70"/>
-<connect gate="G$1" pin="UART2_RXD" pad="68"/>
-<connect gate="G$1" pin="UART2_TXD" pad="67"/>
-<connect gate="G$1" pin="UART4_RXD" pad="57"/>
-<connect gate="G$1" pin="UART4_TXD" pad="59"/>
-<connect gate="G$1" pin="VADC" pad="78"/>
-<connect gate="G$1" pin="VDD_5V" pad="51 52" route="any"/>
+<connect gate="G$1" pin="!RESET" pad="10"/>
+<connect gate="G$1" pin="3V3" pad="3 4" route="any"/>
+<connect gate="G$1" pin="AGND" pad="34"/>
+<connect gate="G$1" pin="AIN0" pad="39"/>
+<connect gate="G$1" pin="AIN1" pad="40"/>
+<connect gate="G$1" pin="AIN2" pad="37"/>
+<connect gate="G$1" pin="AIN3" pad="38"/>
+<connect gate="G$1" pin="AIN4" pad="33"/>
+<connect gate="G$1" pin="AIN5" pad="36"/>
+<connect gate="G$1" pin="AIN6" pad="35"/>
+<connect gate="G$1" pin="CLKOUT2/GPIO3_20" pad="41"/>
+<connect gate="G$1" pin="EHRPWM1A" pad="14"/>
+<connect gate="G$1" pin="EHRPWM1B" pad="16"/>
+<connect gate="G$1" pin="GND" pad="1 2 43 44 45 46" route="any"/>
+<connect gate="G$1" pin="GPIO0_7/GPIO3_18" pad="42"/>
+<connect gate="G$1" pin="GPIO1_16" pad="15"/>
+<connect gate="G$1" pin="GPIO1_17" pad="23"/>
+<connect gate="G$1" pin="GPIO1_28" pad="12"/>
+<connect gate="G$1" pin="GPIO3_19" pad="27"/>
+<connect gate="G$1" pin="GPIO3_21" pad="25"/>
+<connect gate="G$1" pin="I2C1_SCL" pad="17"/>
+<connect gate="G$1" pin="I2C1_SDA" pad="18"/>
+<connect gate="G$1" pin="I2C2_SCL" pad="19"/>
+<connect gate="G$1" pin="I2C2_SDA" pad="20"/>
+<connect gate="G$1" pin="PWR_BTN" pad="9"/>
+<connect gate="G$1" pin="SPI1_CS0" pad="28"/>
+<connect gate="G$1" pin="SPI1_D0" pad="29"/>
+<connect gate="G$1" pin="SPI1_D1" pad="30"/>
+<connect gate="G$1" pin="SPI1_SCLK" pad="31"/>
+<connect gate="G$1" pin="SYS_5V" pad="7 8" route="any"/>
+<connect gate="G$1" pin="UART1_RXD" pad="26"/>
+<connect gate="G$1" pin="UART1_TXD" pad="24"/>
+<connect gate="G$1" pin="UART2_RXD" pad="22"/>
+<connect gate="G$1" pin="UART2_TXD" pad="21"/>
+<connect gate="G$1" pin="UART4_RXD" pad="11"/>
+<connect gate="G$1" pin="UART4_TXD" pad="13"/>
+<connect gate="G$1" pin="VADC" pad="32"/>
+<connect gate="G$1" pin="VDD_5V" pad="5 6" route="any"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -5690,6 +5690,8 @@ Source: Comchip CGRM4001-G.pdf</description>
 <text x="0" y="195.58" size="1.778" layer="97" rot="R270">R=0.08/I_MAX</text>
 <text x="185.42" y="223.52" size="1.778" layer="97">NTMFS4983NF
 NTD4904N</text>
+<text x="124.46" y="226.06" size="1.778" layer="97">Change drivers to HIP4082/HIP83204A</text>
+<text x="124.46" y="223.52" size="1.778" layer="97">Add charge pump</text>
 </plain>
 <instances>
 <instance part="P+2" gate="1" x="213.36" y="172.72"/>
