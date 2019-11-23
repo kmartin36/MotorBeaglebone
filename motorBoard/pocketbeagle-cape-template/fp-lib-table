@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name PocketBeagle.pretty)(type KiCad)(uri $KIPRJMOD/pocketbeagle.pretty)(options "")(descr ""))
+  (lib (name Custom)(type KiCad)(uri /root/motorBoard/Custom.pretty)(options "")(descr ""))
+  (lib (name Connectors_Powerpole)(type KiCad)(uri /root/motorBoard/Connectors_Powerpole.pretty)(options "")(descr ""))
+  (lib (name Connectors_Anderson)(type KiCad)(uri /root/motorBoard/Connectors_Anderson.pretty)(options "")(descr ""))
+)
