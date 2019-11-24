@@ -644,14 +644,14 @@ F0 "Servo3" 50
 F1 "../servo.sch" 50
 F2 "IN" I L 7600 5000 50 
 $EndSheet
-Text GLabel 7600 4100 0    50   Input ~ 0
-pru1_0
 Text GLabel 7600 4400 0    50   Input ~ 0
-pru1_1
+pru1_8
+Text GLabel 7600 4100 0    50   Input ~ 0
+pru1_10
 Text GLabel 7600 4700 0    50   Input ~ 0
-pru1_2
+pru1_11
 Text GLabel 7600 5000 0    50   Input ~ 0
-pru1_3
+pru1_15
 $Comp
 L Device:D_Zener D101
 U 1 1 5DCFF42C
@@ -981,4 +981,24 @@ Wire Wire Line
 	2300 2100 2200 2100
 Wire Wire Line
 	2200 2200 2300 2200
+Text GLabel 4650 2700 0    50   Input ~ 0
+pru1_8
+Text GLabel 2200 2700 0    50   Input ~ 0
+pru1_10
+Text GLabel 2900 1100 2    50   Input ~ 0
+pru1_11
+Text GLabel 2900 2400 2    50   Input ~ 0
+pru1_15
+Wire Wire Line
+	2900 2400 2800 2400
+Wire Wire Line
+	2900 1100 2800 1100
+Wire Wire Line
+	2300 2700 2200 2700
+Wire Wire Line
+	4750 2700 4650 2700
+Text GLabel 2200 2400 0    50   Input ~ 0
+pru1_8
+Wire Wire Line
+	2300 2400 2200 2400
 $EndSCHEMATC
