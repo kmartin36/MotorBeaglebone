@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name PocketBeagle-rescue)(type Legacy)(uri ${KIPRJMOD}/PocketBeagle-rescue.lib)(options "")(descr ""))
-  (lib (name custom)(type Legacy)(uri /root/motorBoard/custom.lib)(options "")(descr ""))
+  (lib (name custom)(type Legacy)(uri ${KIPRJMOD}/../custom.lib)(options "")(descr ""))
 )
