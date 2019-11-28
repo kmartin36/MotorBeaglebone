@@ -3,4 +3,5 @@
   (lib (name Custom)(type KiCad)(uri $KIPRJMOD/../Custom.pretty)(options "")(descr ""))
   (lib (name Connectors_Powerpole)(type KiCad)(uri $KIPRJMOD/../Connectors_Powerpole.pretty)(options "")(descr ""))
   (lib (name Connectors_Anderson)(type KiCad)(uri $KIPRJMOD/../Connectors_Anderson.pretty)(options "")(descr ""))
+  (lib (name Socket_BeagleBone_Black)(type KiCad)(uri $KIPRJMOD/../Socket_BeagleBone_Black.pretty)(options "")(descr ""))
 )
