@@ -1,10 +1,10 @@
 EESchema Schematic File Version 4
-LIBS:PocketBeagle-cache
+LIBS:motorBoard-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 8 9
+Sheet 8 15
 Title ""
 Date ""
 Rev ""
@@ -17,41 +17,49 @@ $EndDescr
 Text HLabel 3800 2550 0    50   Input ~ 0
 IN
 $Comp
-L Connector_Generic:Conn_01x03 J601
+L Connector_Generic:Conn_01x03 J801
 U 1 1 5D1B61FD
 P 4050 2650
-AR Path="/5D1B61A9/5D1B61FD" Ref="J601"  Part="1" 
+AR Path="/5D1B61A9/5D1B61FD" Ref="J801"  Part="1" 
 AR Path="/5D1B66B0/5D1B61FD" Ref="J?"  Part="1" 
-AR Path="/5D1B8193/5D1B61FD" Ref="J701"  Part="1" 
+AR Path="/5D1B8193/5D1B61FD" Ref="J901"  Part="1" 
 AR Path="/5D1B991E/5D1B61FD" Ref="J?"  Part="1" 
-AR Path="/5D1BB346/5D1B61FD" Ref="J801"  Part="1" 
-AR Path="/5D1BB349/5D1B61FD" Ref="J901"  Part="1" 
+AR Path="/5D1BB346/5D1B61FD" Ref="J1001"  Part="1" 
+AR Path="/5D1BB349/5D1B61FD" Ref="J1101"  Part="1" 
 AR Path="/5DDD12FD/5D1B61FD" Ref="J?"  Part="1" 
 AR Path="/5DDD1300/5D1B61FD" Ref="J?"  Part="1" 
 AR Path="/5DDD7368/5D1B61FD" Ref="J?"  Part="1" 
 AR Path="/5DDD736B/5D1B61FD" Ref="J?"  Part="1" 
-F 0 "J701" H 4130 2692 50  0000 L CNN
+AR Path="/5DE680A2/5D1B61FD" Ref="J1201"  Part="1" 
+AR Path="/5DE680A5/5D1B61FD" Ref="J1301"  Part="1" 
+AR Path="/5DE680A8/5D1B61FD" Ref="J1401"  Part="1" 
+AR Path="/5DE680AB/5D1B61FD" Ref="J1501"  Part="1" 
+F 0 "J801" H 4130 2692 50  0000 L CNN
 F 1 "Conn_01x03" H 4130 2601 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 4050 2650 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4050 2650 50  0001 C CNN
 F 3 "~" H 4050 2650 50  0001 C CNN
 	1    4050 2650
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0601
+L power:+5V #PWR0801
 U 1 1 5D1B62EF
 P 3600 2600
-AR Path="/5D1B61A9/5D1B62EF" Ref="#PWR0601"  Part="1" 
+AR Path="/5D1B61A9/5D1B62EF" Ref="#PWR0801"  Part="1" 
 AR Path="/5D1B66B0/5D1B62EF" Ref="#PWR?"  Part="1" 
-AR Path="/5D1B8193/5D1B62EF" Ref="#PWR0701"  Part="1" 
+AR Path="/5D1B8193/5D1B62EF" Ref="#PWR0901"  Part="1" 
 AR Path="/5D1B991E/5D1B62EF" Ref="#PWR?"  Part="1" 
-AR Path="/5D1BB346/5D1B62EF" Ref="#PWR0801"  Part="1" 
-AR Path="/5D1BB349/5D1B62EF" Ref="#PWR0901"  Part="1" 
+AR Path="/5D1BB346/5D1B62EF" Ref="#PWR01001"  Part="1" 
+AR Path="/5D1BB349/5D1B62EF" Ref="#PWR01101"  Part="1" 
 AR Path="/5DDD12FD/5D1B62EF" Ref="#PWR?"  Part="1" 
 AR Path="/5DDD1300/5D1B62EF" Ref="#PWR?"  Part="1" 
 AR Path="/5DDD7368/5D1B62EF" Ref="#PWR?"  Part="1" 
 AR Path="/5DDD736B/5D1B62EF" Ref="#PWR?"  Part="1" 
-F 0 "#PWR0701" H 3600 2450 50  0001 C CNN
+AR Path="/5DE680A2/5D1B62EF" Ref="#PWR01201"  Part="1" 
+AR Path="/5DE680A5/5D1B62EF" Ref="#PWR01301"  Part="1" 
+AR Path="/5DE680A8/5D1B62EF" Ref="#PWR01401"  Part="1" 
+AR Path="/5DE680AB/5D1B62EF" Ref="#PWR01501"  Part="1" 
+F 0 "#PWR0801" H 3600 2450 50  0001 C CNN
 F 1 "+5V" H 3615 2773 50  0000 C CNN
 F 2 "" H 3600 2600 50  0001 C CNN
 F 3 "" H 3600 2600 50  0001 C CNN
@@ -59,20 +67,24 @@ F 3 "" H 3600 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR0602
+L power:GNDD #PWR0802
 U 1 1 5D1B6368
 P 3800 2800
-AR Path="/5D1B61A9/5D1B6368" Ref="#PWR0602"  Part="1" 
+AR Path="/5D1B61A9/5D1B6368" Ref="#PWR0802"  Part="1" 
 AR Path="/5D1B66B0/5D1B6368" Ref="#PWR?"  Part="1" 
-AR Path="/5D1B8193/5D1B6368" Ref="#PWR0702"  Part="1" 
+AR Path="/5D1B8193/5D1B6368" Ref="#PWR0902"  Part="1" 
 AR Path="/5D1B991E/5D1B6368" Ref="#PWR?"  Part="1" 
-AR Path="/5D1BB346/5D1B6368" Ref="#PWR0802"  Part="1" 
-AR Path="/5D1BB349/5D1B6368" Ref="#PWR0902"  Part="1" 
+AR Path="/5D1BB346/5D1B6368" Ref="#PWR01002"  Part="1" 
+AR Path="/5D1BB349/5D1B6368" Ref="#PWR01102"  Part="1" 
 AR Path="/5DDD12FD/5D1B6368" Ref="#PWR?"  Part="1" 
 AR Path="/5DDD1300/5D1B6368" Ref="#PWR?"  Part="1" 
 AR Path="/5DDD7368/5D1B6368" Ref="#PWR?"  Part="1" 
 AR Path="/5DDD736B/5D1B6368" Ref="#PWR?"  Part="1" 
-F 0 "#PWR0702" H 3800 2550 50  0001 C CNN
+AR Path="/5DE680A2/5D1B6368" Ref="#PWR01202"  Part="1" 
+AR Path="/5DE680A5/5D1B6368" Ref="#PWR01302"  Part="1" 
+AR Path="/5DE680A8/5D1B6368" Ref="#PWR01402"  Part="1" 
+AR Path="/5DE680AB/5D1B6368" Ref="#PWR01502"  Part="1" 
+F 0 "#PWR0802" H 3800 2550 50  0001 C CNN
 F 1 "GNDD" H 3804 2645 50  0000 C CNN
 F 2 "" H 3800 2800 50  0001 C CNN
 F 3 "" H 3800 2800 50  0001 C CNN
